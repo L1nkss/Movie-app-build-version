@@ -1,6 +1,7 @@
 import MenuList from "../../components/menu-list/menu-list.connect";
 import React, { useEffect } from "react";
 import Spinner from "../../components/spinner/spinner";
+import logo from '../../assets/watch-movie.svg';
 
 const AsideMenu = (props) => {
   useEffect(() => {
@@ -9,7 +10,7 @@ const AsideMenu = (props) => {
   return (
     <aside className="side-menu">
       <div>
-        <img width={100} src="image/watch-movie.svg" alt="Лого" />
+        <img width={100} src={logo} alt="Лого" />
       </div>
       {props.isLoading && <Spinner />}
       {!props.isLoading && (
