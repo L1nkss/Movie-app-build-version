@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/movie-app/static/css/main.2030c0d3.chunk.css",
-    "main.js": "/movie-app/static/js/main.68728cdf.chunk.js",
-    "main.js.map": "/movie-app/static/js/main.68728cdf.chunk.js.map",
-    "runtime-main.js": "/movie-app/static/js/runtime-main.1fbae34b.js",
-    "runtime-main.js.map": "/movie-app/static/js/runtime-main.1fbae34b.js.map",
-    "static/js/2.f14c483f.chunk.js": "/movie-app/static/js/2.f14c483f.chunk.js",
-    "static/js/2.f14c483f.chunk.js.map": "/movie-app/static/js/2.f14c483f.chunk.js.map",
-    "index.html": "/movie-app/index.html",
-    "precache-manifest.460cae7c94cd582705104b58c51c0470.js": "/movie-app/precache-manifest.460cae7c94cd582705104b58c51c0470.js",
-    "service-worker.js": "/movie-app/service-worker.js",
-    "static/css/main.2030c0d3.chunk.css.map": "/movie-app/static/css/main.2030c0d3.chunk.css.map",
-    "static/js/2.f14c483f.chunk.js.LICENSE.txt": "/movie-app/static/js/2.f14c483f.chunk.js.LICENSE.txt"
+    "main.css": "/Movie-app-build-version/static/css/main.2030c0d3.chunk.css",
+    "main.js": "/Movie-app-build-version/static/js/main.68728cdf.chunk.js",
+    "main.js.map": "/Movie-app-build-version/static/js/main.68728cdf.chunk.js.map",
+    "runtime-main.js": "/Movie-app-build-version/static/js/runtime-main.160b1850.js",
+    "runtime-main.js.map": "/Movie-app-build-version/static/js/runtime-main.160b1850.js.map",
+    "static/js/2.f14c483f.chunk.js": "/Movie-app-build-version/static/js/2.f14c483f.chunk.js",
+    "static/js/2.f14c483f.chunk.js.map": "/Movie-app-build-version/static/js/2.f14c483f.chunk.js.map",
+    "index.html": "/Movie-app-build-version/index.html",
+    "precache-manifest.cc732239c0710ec8d08fbe1469493490.js": "/Movie-app-build-version/precache-manifest.cc732239c0710ec8d08fbe1469493490.js",
+    "service-worker.js": "/Movie-app-build-version/service-worker.js",
+    "static/css/main.2030c0d3.chunk.css.map": "/Movie-app-build-version/static/css/main.2030c0d3.chunk.css.map",
+    "static/js/2.f14c483f.chunk.js.LICENSE.txt": "/Movie-app-build-version/static/js/2.f14c483f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1fbae34b.js",
+    "static/js/runtime-main.160b1850.js",
     "static/js/2.f14c483f.chunk.js",
     "static/css/main.2030c0d3.chunk.css",
     "static/js/main.68728cdf.chunk.js"
