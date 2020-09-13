@@ -19,6 +19,9 @@ const Routes = () => {
       <Route path={RoutePathes.ROOT} exact>
         <Redirect to={RoutePathes.MOVIES} />
       </Route>
+      <Route path={RoutePathes.BUILD}>
+        <Redirect to={RoutePathes.MOVIES} />
+      </Route>
       <Route component={NotFound} />
     </Switch>
   );

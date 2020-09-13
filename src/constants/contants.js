@@ -22,6 +22,7 @@ const RoutePathes = {
   ROOT: "/",
   CAST: "/cast",
   ACTOR: "/actor",
+  BUILD: "/Movie-app-build-version"
 };
 
 const imageUrl = "https://image.tmdb.org/t/p/w342/";
