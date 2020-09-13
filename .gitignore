@@ -8,8 +8,12 @@
 # testing
 /coverage
 
+src/config
+
 # production
 /build
+
+.idea
 
 # misc
 .DS_Store
